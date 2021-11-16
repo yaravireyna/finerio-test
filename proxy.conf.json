@@ -1,0 +1,7 @@
+{
+  "/api/*": {
+    "target": "https://api.finerio.mx/api",
+    "secure": true,
+    "logLevel": "debug",
+    "changeOrigin": true
+}
